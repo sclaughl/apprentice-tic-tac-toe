@@ -1,0 +1,5 @@
+Run the program
+Program prompt user for first move (1-9)
+When user enters move, program makes move, tells user current status of board, and prompts for next move
+This continues until there is a winner or the board is full
+Upon completion, the board declares who is the winner (or tie), and asks user if he wants to play again
